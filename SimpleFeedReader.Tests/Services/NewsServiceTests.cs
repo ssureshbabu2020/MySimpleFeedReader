@@ -11,6 +11,7 @@ namespace SimpleFeedReader.Tests.Services
 {
     public class NewsServiceTests
     {
+        //new comment for testing 
         private readonly NewsService _newsService;
 
         public NewsServiceTests()
